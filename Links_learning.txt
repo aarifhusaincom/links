@@ -1,0 +1,10 @@
+HTML → http://w3schools.com
+CSS → http://CSS-tricks.com
+JavaScript → http://LearnJavaScript.online
+Git and GitHub → http://LearnGitBranching.js.org
+React → http://React-tutorial.app
+API → 
+@Rapid_API
+
+SQL → http://SQLbolt.com
+Blockchain → http://cryptozombies.io
